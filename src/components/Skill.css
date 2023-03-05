@@ -1,0 +1,65 @@
+h1 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 0.15rem;
+  }
+  
+  li button {
+    padding: 0.5rem;
+    margin-left: 0.5rem;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+  }
+  
+  li button:hover {
+    background-color: #0069d9;
+  }
+  
+  .add-skill-form {
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+  }
+  
+  .add-skill-form input {
+    flex-grow: 1;
+    margin-right: 0.5rem;
+    padding: 0.5rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 0.25rem;
+  }
+  
+  .add-skill-form button {
+    padding: 0.5rem;
+    font-size: 1rem;
+    color: #fff;
+    background-color: #28a745;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+  }
+  
+  .add-skill-form button:hover {
+    background-color: #218838;
+  }
+  

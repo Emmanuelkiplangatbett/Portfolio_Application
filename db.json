@@ -1,0 +1,45 @@
+{
+    "profile": [
+      {
+        "id": 1,
+        "name": "Duncan Langat",
+        "image": "https://scontent.fnbo2-1.fna.fbcdn.net/v/t1.6435-9/141516148_2795056727409617_8181471895462743127_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=8FNQ9_2O8_AAX8tocsG&_nc_ht=scontent.fnbo2-1.fna&oh=00_AT_NpBE7bvF8Gw8AxJcAuHMLR2fi0wKq1JJ0eeWsWifavw&oe=6360D270",
+        "projects": {}
+      },
+      {
+        "id": 2,
+        "name": "",
+        "image": "https://images.pexels.com/photos/5483071/pexels-photo-5483071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+      }
+    ],
+    "contact": [
+      {
+        "id": 1,
+        "name": "Maurene",
+        "email": "mm@gmail.com",
+        "phoneno": "01120204435",
+        "message": ""
+      }
+      
+    ],
+    "projects": [
+      {
+        "id": 1,
+        "name": "Apartments",
+        "image": "https://images.pexels.com/photos/323705/pexels-photo-323705.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "github": "https://github.com/DuncanLangat6515/Phase-1-Online-Selling-Apartments"
+      },
+      {
+        "id": 2,
+        "name": "Real Estate",
+        "image": "https://images.pexels.com/photos/1370704/pexels-photo-1370704.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "github": "https://github.com/DuncanLangat6515/Week-one-project"
+      },
+      {
+        "id": 3,
+        "name": "AgriPlus",
+        "image": "https://images.pexels.com/photos/974314/pexels-photo-974314.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "github": "https://github.com/DuncanLangat6515/AgriPlus"
+      }
+    ]
+  }
